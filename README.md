@@ -44,12 +44,12 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
 
 9. **Meta-KD: A Meta Knowledge Distillation Framework for Language Model Compression across Domains** ACL-IJCNLP 2021
 
-   *Haojie Pan, Chengyu Wang, Minghui Qiu, Yichang Zhang, Yaliang Li, Jun Huang* [[pdf](https://arxiv.org/abs/2012.01266)] [[project](https://github.com/lxk00/BERT-EMD)]
+   *Haojie Pan, Chengyu Wang, Minghui Qiu, Yichang Zhang, Yaliang Li, Jun Huang* [[pdf](https://arxiv.org/abs/2012.01266)] 
 
 
 10. **MATE-KD: Masked Adversarial TExt, a Companion to Knowledge Distillation** ACL-IJCNLP 2021
 
-    *Ahmad Rashid, Vasileios Lioutas, Mehdi Rezagholizadeh*  [[pdf](https://arxiv.org/abs/2105.05912)] [[project](https://github.com/lxk00/BERT-EMD)]
+    *Ahmad Rashid, Vasileios Lioutas, Mehdi Rezagholizadeh*  [[pdf](https://arxiv.org/abs/2105.05912)] 
 
 
 11. **Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor** ACL-IJCNLP 2021
@@ -58,11 +58,11 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
 
 12. **Weight Distillation: Transferring the Knowledge in Neural Network Parameters** ACL-IJCNLP 2021
 
-    *Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao, Jingbo Zhu* [[pdf](https://arxiv.org/abs/2009.09152)] [[project]()]
+    *Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao, Jingbo Zhu* [[pdf](https://arxiv.org/abs/2009.09152)] 
 
 13. **Marginal Utility Diminishes: Exploring the Minimum Knowledge for BERT Knowledge Distillation** ACL-IJCNLP 2021
 
-    *Yuanxin Liu, Fandong Meng, Zheng Lin, Weiping Wang, Jie Zhou* [[pdf](https://arxiv.org/abs/2106.05691)] [[project]()]
+    *Yuanxin Liu, Fandong Meng, Zheng Lin, Weiping Wang, Jie Zhou* [[pdf](https://arxiv.org/abs/2106.05691)] 
 
 14. **MiniLMv2: Multi-Head Self-Attention Relation Distillation for Compressing Pretrained Transformers** Findings of ACL-IJCNLP 2021
 
@@ -71,7 +71,7 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
 
 15. **One Teacher is Enough? Pre-trained Language Model Distillation from Multiple Teachers** Findings of ACL-IJCNLP 2021
 
-    *Chuhan Wu, Fangzhao Wu, Yongfeng Huang* [[pdf](https://arxiv.org/abs/2106.01023)] [[project]()]
+    *Chuhan Wu, Fangzhao Wu, Yongfeng Huang* [[pdf](https://arxiv.org/abs/2106.01023)] 
 
 
 ## Dynamic Early Exiting
@@ -102,7 +102,7 @@ of Pre-trained Language Models** NAACL 2021
 
 5. **Accelerating Pre-trained Language Models via Calibrated Cascade**  Preprint
 
-   *Lei Li, Yankai Lin, Shuhuai Ren, Deli Chen, Xuancheng Ren, Peng Li, Jie Zhou, Xu Sun* [[pdf](https://arxiv.org/abs/2012.14682)] [[project]()]  
+   *Lei Li, Yankai Lin, Shuhuai Ren, Deli Chen, Xuancheng Ren, Peng Li, Jie Zhou, Xu Sun* [[pdf](https://arxiv.org/abs/2012.14682)] [[project](https://github.com/lancopku/CascadeBERT)]  
 
 
 6. **Early Exiting BERT for Efficient Document Ranking** SustaiNLP 2020
@@ -125,13 +125,9 @@ of Pre-trained Language Models** NAACL 2021
 
 10. **Early Exiting with Ensemble Internal Classifiers** Preprint
 
-    *Tianxiang Sun, Yunhua Zhou, Xiangyang Liu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu* [[pdf](https://arxiv.org/abs/2105.13792)] [[project]()]  
+    *Tianxiang Sun, Yunhua Zhou, Xiangyang Liu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu* [[pdf](https://arxiv.org/abs/2105.13792)] 
 
 
-
-## Pruning
-
-*TODO*
 
 ## Quantization
 1. **Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT** AAAI 2020
@@ -156,6 +152,11 @@ of Pre-trained Language Models** NAACL 2021
 
     *Sehoon Kim, Amir Gholami, Zhewei Yao, Michael W. Mahoney, Kurt Keutzer* [[pdf](https://arxiv.org/abs/2101.01321)] [[project](https://github.com/kssteven418/I-BERT)]  
 
+
+
+## Pruning
+
+*TODO*
 
 
 ## Contribution
