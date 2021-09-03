@@ -1,5 +1,5 @@
 # Awesome Efficient PLM Papers
-Must-read papers on improving effciency for pre-trained language models. 
+Must-read papers on improving efficiency for pre-trained language models. 
 
 The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and [Shuhuai Ren](https://github.com/RenShuhuai-Andy).
 
