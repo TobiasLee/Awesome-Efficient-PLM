@@ -100,9 +100,9 @@ of Pre-trained Language Models** NAACL 2021
 
 
 
-5. **Accelerating Pre-trained Language Models via Calibrated Cascade**  Preprint
+5. **CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade**  Preprint
 
-   *Lei Li, Yankai Lin, Shuhuai Ren, Deli Chen, Xuancheng Ren, Peng Li, Jie Zhou, Xu Sun* [[pdf](https://arxiv.org/abs/2012.14682)] [[project](https://github.com/lancopku/CascadeBERT)]  
+   *Lei Li, Yankai Lin, Deli Chen, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun* [[pdf](https://arxiv.org/abs/2012.14682)] [[project](https://github.com/lancopku/CascadeBERT)]  
 
 
 6. **Early Exiting BERT for Efficient Document Ranking** SustaiNLP 2020
