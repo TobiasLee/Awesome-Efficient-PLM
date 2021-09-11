@@ -136,7 +136,7 @@ of Pre-trained Language Models** NAACL 2021
 
 2. **TernaryBERT: Distillation-aware Ultra-low Bit BERT** EMNLP 2020
 
-    *Wei Zhang, Lu Hou, Yichun Yin, Lifeng Shang, Xiao Chen, Xin Jiang, Qun Liu* [[pdf](https://arxiv.org/abs/1909.05840)] [[project](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT)]  
+    *Wei Zhang, Lu Hou, Yichun Yin, Lifeng Shang, Xiao Chen, Xin Jiang, Qun Liu* [[pdf](https://arxiv.org/abs/2009.12812)] [[project](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT)]  
 
 3. **Q8BERT: Quantized 8Bit BERT** NeurIPS 2019 Workshop
 
@@ -156,7 +156,50 @@ of Pre-trained Language Models** NAACL 2021
 
 ## Pruning
 
-*TODO*
+1. **Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned** ACL 2019
+
+    *Elena Voita, David Talbot, Fedor Moiseev, Rico Sennrich, Ivan Titov* [[pdf](https://aclanthology.org/P19-1580/)] [[project](https://github.com/lena-voita/the-story-of-heads)]  
+
+2. **Are Sixteen Heads Really Better than One?** NeurIPS 2019
+
+    *Paul Michel, Omer Levy, Graham Neubig* [[pdf](https://arxiv.org/abs/1905.10650)] [[project](https://github.com/pmichel31415/are-16-heads-really-better-than-1)]  
+
+
+3. **The Lottery Ticket Hypothesis for Pre-trained BERT Networks** NeurIPS 2020
+
+    *Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin* [[pdf](https://arxiv.org/abs/2007.12223)] [[project](https://github.com/VITA-Group/BERT-Tickets)]  
+
+4. **Movement Pruning: Adaptive Sparsity by Fine-Tuning** NeurIPS 2020 
+
+   *Victor Sanh, Thomas Wolf, Alexander M. Rush* [[pdf](https://arxiv.org/abs/2005.07683)] [[project](https://github.com/huggingface/transformers/tree/master/examples/research_projects/movement-pruning)]  
+
+5. **Reducing Transformer Depth on Demand with Structured Dropout** Preprint 
+
+    *Angela Fan, Edouard Grave, Armand Joulin* [[pdf](https://arxiv.org/abs/1909.11556)] 
+
+
+6. **When BERT Plays the Lottery, All Tickets Are Winning** EMNLP 2020
+
+    *Sai Prasanna, Anna Rogers, Anna Rumshisky* [[pdf](https://arxiv.org/abs/2005.00561)] [[project](https://github.com/sai-prasanna/bert-experiments)]  
+
+7. **Structured Pruning of a BERT-based Question Answering Model** Preprint
+
+    *J.S. McCarley, Rishav Chakravarti, Avirup Sil* [[pdf](https://arxiv.org/abs/1910.06360)] 
+
+8. **Structured Pruning of Large Language Models** EMNLP 2020
+
+    *Ziheng Wang, Jeremy Wohlwend, Tao Lei* [[pdf](https://aclanthology.org/2020.emnlp-main.496/)] [[project](https://github.com/asappresearch/flop)]  
+
+
+9. **Rethinking Network Pruning -- under the Pre-train and Fine-tune Paradigm** NAACL 2021 
+
+    *Dongkuan Xu, Ian E.H. Yen, Jinxi Zhao, Zhibin Xiao* [[pdf](https://arxiv.org/abs/2104.08682)] 
+
+
+10. **Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization** ACL 2021 
+
+    *Chen Liang, Simiao Zuo, Minshuo Chen, Haoming Jiang, Xiaodong Liu, Pengcheng He, Tuo Zhao, Weizhu Chen* [[pdf](https://arxiv.org/abs/2105.12002)]  [[project](https://github.com/cliang1453/super-structured-lottery-tickets)]  
+
 
 
 ## Contribution
