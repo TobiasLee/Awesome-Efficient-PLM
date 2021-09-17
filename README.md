@@ -3,15 +3,12 @@ Must-read papers on improving efficiency for pre-trained language models.
 
 The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and [Shuhuai Ren](https://github.com/RenShuhuai-Andy).
 
-
-
 ## Knowledge Distillation
 
 1. **DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter** NeurIPS workshop  
 
    *Victor Sanh, Lysandre Debut, Julien Chaumond, Thomas Wolf* [[pdf](https://arxiv.org/pdf/2107.13586)] [[project](https://huggingface.co/transformers/model_doc/distilbert.html)]  
    
-
 2. **Patient Knowledge Distillation for BERT Model Compression** EMNLP 2019
 
    *Siqi Sun, Yu Cheng, Zhe Gan, Jingjing Liu* [[pdf](https://arxiv.org/abs/1908.09355)] [[project](https://github.com/intersun/PKD-for-BERT-Model-Compression)]
@@ -25,19 +22,23 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
    *Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu* [[pdf](https://arxiv.org/abs/1909.10351)] [[project](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)]
 
 
-5. **BERT-of-Theseus: Compressing BERT by Progressive Module Replacing** EMNLP 2020 
+5. **DynaBERT: Dynamic BERT with Adaptive Width and Depth** NeurIPS 2020
+
+   *Lu Hou, Zhiqi Huang, Lifeng Shang, Xin Jiang, Xiao Chen, Qun Liu* [[pdf](https://arxiv.org/abs/2004.04037)]  [[project](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/DynaBERT)] 
+
+6. **BERT-of-Theseus: Compressing BERT by Progressive Module Replacing** EMNLP 2020 
 
    *Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei, Ming Zhou* [[pdf](https://arxiv.org/abs/2002.02925)] [[project](https://github.com/JetRunner/BERT-of-Theseus)]
 
-6. **MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers** NeurIPS 2020
+7. **MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers** NeurIPS 2020
 
    *Wenhui Wang, Furu Wei, Li Dong, Hangbo Bao, Nan Yang, Ming Zhou*  [[pdf](https://arxiv.org/abs/2002.10957)] [[project](https://github.com/microsoft/unilm/tree/master/minilm)]
 
-7. **BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance** EMNLP 2020
+8. **BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance** EMNLP 2020
 
    *Jianquan Li, Xiaokang Liu, Honghong Zhao, Ruifeng Xu, Min Yang, Yaohong Jin* [[pdf](https://arxiv.org/abs/2010.06133)] [[project](https://github.com/lxk00/BERT-EMD)]
 
-8. **MixKD: Towards Efficient Distillation of Large-scale Language Models** ICLR 2021
+9. **MixKD: Towards Efficient Distillation of Large-scale Language Models** ICLR 2021
 
    *Kevin J Liang, Weituo Hao, Dinghan Shen, Yufan Zhou, Weizhu Chen, Changyou Chen, Lawrence Carin*  [[pdf](https://arxiv.org/abs/2011.00593)] 
 
@@ -81,8 +82,6 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
 
    *Ji Xin, Raphael Tang, Jaejun Lee, Yaoliang Yu, Jimmy Lin*  [[pdf](https://arxiv.org/abs/2004.12993)] [[project](https://github.com/castorini/DeeBERT)]  
 
-
-
 2. **FastBERT: a Self-distilling BERT with Adaptive Inference Time**   ACL 2020
 
    *Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Haotang Deng, Qi Ju*  [[pdf](https://arxiv.org/abs/2004.02178)] [[project](https://github.com/autoliuweijie/FastBERT)]  
@@ -94,10 +93,9 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
 
 
 4. **A Global Past-Future Early Exit Method for Accelerating Inference
-of Pre-trained Language Models** NAACL 2021
+  of Pre-trained Language Models** NAACL 2021
 
    *Kaiyuan Liao, Yi Zhang, Xuancheng Ren, Qi Su, Xu Sun, Bin He* [[pdf](https://aclanthology.org/2021.naacl-main.162)] [[project](https://github.com/lancopku/Early-Exit)]  
-
 
 
 5. **CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade**  Preprint
@@ -127,7 +125,13 @@ of Pre-trained Language Models** NAACL 2021
 
     *Tianxiang Sun, Yunhua Zhou, Xiangyang Liu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu* [[pdf](https://arxiv.org/abs/2105.13792)] 
 
+11. **LeeBERT: Learned Early Exit for BERT with Cross-Level Optimization** ACL 2021
 
+    *Wei Zhu* [[pdf](https://aclanthology.org/2021.acl-long.231.pdf)] 
+
+
+12. **Consistent Accelerated Inference via Confident Adaptive Transformers** EMNLP 2021
+    *Tal Schuster, Adam Fisch, Tommi Jaakkola, Regina Barzilay* [[pdf]](https://arxiv.org/abs/2104.08803) [[project]](https://github.com/TalSchuster/CATs)
 
 ## Quantization
 1. **Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT** AAAI 2020
@@ -148,10 +152,13 @@ of Pre-trained Language Models** NAACL 2021
     *Haoli Bai, Wei Zhang, Lu Hou, Lifeng Shang, Jing Jin, Xin Jiang, Qun Liu, Michael Lyu, Irwin King* [[pdf](https://arxiv.org/abs/2012.15701)] [[project](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/BinaryBERT)]  
 
 
-5. **I-BERT: Integer-only BERT Quantization** ICML 2021
+5. **Automatic Mixed-Precision Quantization Search of BERT** IJCAI 2021
+
+    *Changsheng Zhao, Ting Hua, Yilin Shen, Qian Lou, Hongxia Jin* [[pdf]](https://www.ijcai.org/proceedings/2021/0472.pdf) 
+    
+6. **I-BERT: Integer-only BERT Quantization** ICML 2021
 
     *Sehoon Kim, Amir Gholami, Zhewei Yao, Michael W. Mahoney, Kurt Keutzer* [[pdf](https://arxiv.org/abs/2101.01321)] [[project](https://github.com/kssteven418/I-BERT)]  
-
 
 
 ## Pruning
@@ -173,7 +180,11 @@ of Pre-trained Language Models** NAACL 2021
 
    *Victor Sanh, Thomas Wolf, Alexander M. Rush* [[pdf](https://arxiv.org/abs/2005.07683)] [[project](https://github.com/huggingface/transformers/tree/master/examples/research_projects/movement-pruning)]  
 
-5. **Reducing Transformer Depth on Demand with Structured Dropout** Preprint 
+5. **Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning** Rep4NLP 2020
+
+    *Mitchell A. Gordon, Kevin Duh, Nicholas Andrews* [[pdf](https://arxiv.org/abs/2002.08307)] [[project]](https://github.com/mitchellgordon95/bert-prune)
+
+6. **Reducing Transformer Depth on Demand with Structured Dropout** Preprint 
 
     *Angela Fan, Edouard Grave, Armand Joulin* [[pdf](https://arxiv.org/abs/1909.11556)] 
 
@@ -199,8 +210,6 @@ of Pre-trained Language Models** NAACL 2021
 10. **Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization** ACL 2021 
 
     *Chen Liang, Simiao Zuo, Minshuo Chen, Haoming Jiang, Xiaodong Liu, Pengcheng He, Tuo Zhao, Weizhu Chen* [[pdf](https://arxiv.org/abs/2105.12002)]  [[project](https://github.com/cliang1453/super-structured-lottery-tickets)]  
-
-
 
 ## Contribution
 
