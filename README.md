@@ -211,6 +211,10 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
 
     *Chen Liang, Simiao Zuo, Minshuo Chen, Haoming Jiang, Xiaodong Liu, Pengcheng He, Tuo Zhao, Weizhu Chen* [[pdf](https://arxiv.org/abs/2105.12002)]  [[project](https://github.com/cliang1453/super-structured-lottery-tickets)]  
 
+11. **Block Pruning For Faster Transformers** EMNLP 2021
+
+    *François Lagunas, Ella Charlaix, Victor Sanh, Alexander M. Rush* [[pdf](https://arxiv.org/abs/2109.04838)]  [[project](https://github.com/huggingface/nn_pruning)]  
+
 ## Contribution
 
 If you find any related work not included in the list, do not hesitate to raise a PR to help us complete the list.
