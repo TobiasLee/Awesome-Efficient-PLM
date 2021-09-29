@@ -3,6 +3,8 @@ Must-read papers on improving efficiency for pre-trained language models.
 
 The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and [Shuhuai Ren](https://github.com/RenShuhuai-Andy).
 
+
+
 ## Knowledge Distillation
 
 1. **DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter** NeurIPS workshop  
@@ -75,6 +77,14 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
     *Chuhan Wu, Fangzhao Wu, Yongfeng Huang* [[pdf](https://arxiv.org/abs/2106.01023)] 
 
 
+16. **Dynamic Knowledge Distllation for Pre-trained Language Models** EMNLP 2021
+
+    *Lei Li, Yankai Lin, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun* [[pdf]](https://arxiv.org/abs/2109.11295) [[project]](https://github.com/lancopku/DynamicKD)
+
+17. **EfficientBERT: Progressively Searching Multilayer Perceptron via Warm-up Knowledge Distillation** Findings of EMNLP 2021
+    
+    *Chenhe Dong, Guangrun Wang, Hang Xu, Jiefeng Peng, Xiaozhe Ren, Xiaodan Liang* [[pdf]](https://github.com/cheneydon/efficient-bert) [[project]](https://github.com/cheneydon/efficient-bert)
+    
 ## Dynamic Early Exiting
 
 
