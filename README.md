@@ -3,8 +3,6 @@ Must-read papers on improving efficiency for pre-trained language models.
 
 The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and [Shuhuai Ren](https://github.com/RenShuhuai-Andy).
 
-
-
 ## Knowledge Distillation
 
 1. **DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter** NeurIPS workshop  
@@ -82,9 +80,20 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
     *Lei Li, Yankai Lin, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun* [[pdf]](https://arxiv.org/abs/2109.11295) [[project]](https://github.com/lancopku/DynamicKD)
 
 17. **EfficientBERT: Progressively Searching Multilayer Perceptron via Warm-up Knowledge Distillation** Findings of EMNLP 2021
-    
-    *Chenhe Dong, Guangrun Wang, Hang Xu, Jiefeng Peng, Xiaozhe Ren, Xiaodan Liang* [[pdf]](https://github.com/cheneydon/efficient-bert) [[project]](https://github.com/cheneydon/efficient-bert)
-    
+
+    *Chenhe Dong, Guangrun Wang, Hang Xu, Jiefeng Peng, Xiaozhe Ren, Xiaodan Liang* [[pdf]](https://arxiv.org/abs/2109.07222) [[project]](https://github.com/cheneydon/efficient-bert)
+
+
+18. **Beyond Preserved Accuracy: Evaluating Loyalty and Robustness of BERT Compression**  EMNLP 2021
+
+    *Canwen Xu, Wangchunshu Zhou, Tao Ge, Ke Xu, Julian McAuley, Furu Wei* [[pdf]](https://arxiv.org/abs/2109.03228)  [[project]](https://github.com/JetRunner/beyond-preserved-accuracy)
+
+
+19. **How to Select One Among All? An Extensive Empirical Study Towards the Robustness of Knowledge Distillation in Natural Language Understanding**  Findings of EMNLP 2021
+
+    *Tianda Li, Ahmad Rashid, Aref Jafari, Pranav Sharma, Ali Ghodsi, Mehdi Rezagholizadeh* [[pdf]](https://arxiv.org/abs/2109.05696) 
+
+
 ## Dynamic Early Exiting
 
 
