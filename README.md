@@ -1,7 +1,7 @@
 # Awesome Efficient PLM Papers
 Must-read papers on improving efficiency for pre-trained language models. 
 
-The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and [Shuhuai Ren](https://github.com/RenShuhuai-Andy).
+The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 
 ## Knowledge Distillation
 
@@ -182,7 +182,11 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
     
 6. **I-BERT: Integer-only BERT Quantization** ICML 2021
 
-    *Sehoon Kim, Amir Gholami, Zhewei Yao, Michael W. Mahoney, Kurt Keutzer* [[pdf](https://arxiv.org/abs/2101.01321)] [[project](https://github.com/kssteven418/I-BERT)]  
+    *Sehoon Kim, Amir Gholami, Zhewei Yao, Michael W. Mahoney, Kurt Keutzer* [[pdf](https://arxiv.org/abs/2101.01321)] [[project](https://github.com/kssteven418/I-BERT)]
+
+7. **Training with Quatization Noise for Extreme Model CompressionN**  ICLR 2021
+   
+   *Angela Fan, Pierre Stock, Benjamin Graham, Edouard Grave, Remi Gribonval Herve Jegou, Armand Joulin* [[pdf](https://arxiv.org/abs/2004.07320)] [[project](https://github.com/pytorch/fairseq/tree/main/examples/quant_noise)]
 
 
 ## Pruning
@@ -216,26 +220,28 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee) and
 6. **When BERT Plays the Lottery, All Tickets Are Winning** EMNLP 2020
 
     *Sai Prasanna, Anna Rogers, Anna Rumshisky* [[pdf](https://arxiv.org/abs/2005.00561)] [[project](https://github.com/sai-prasanna/bert-experiments)]  
+7. **Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior** Findings of EMNLP 2020
 
-7. **Structured Pruning of a BERT-based Question Answering Model** Preprint
+    *Zi Lin, Jeremiah Liu, Zi Yang, Nan Hua, Dan Roth* [[pdf](https://aclanthology.org/2020.findings-emnlp.64/)] 
+8. **Structured Pruning of a BERT-based Question Answering Model** Preprint
 
     *J.S. McCarley, Rishav Chakravarti, Avirup Sil* [[pdf](https://arxiv.org/abs/1910.06360)] 
 
-8. **Structured Pruning of Large Language Models** EMNLP 2020
+9.  **Structured Pruning of Large Language Models** EMNLP 2020
 
     *Ziheng Wang, Jeremy Wohlwend, Tao Lei* [[pdf](https://aclanthology.org/2020.emnlp-main.496/)] [[project](https://github.com/asappresearch/flop)]  
 
 
-9. **Rethinking Network Pruning -- under the Pre-train and Fine-tune Paradigm** NAACL 2021 
+10. **Rethinking Network Pruning -- under the Pre-train and Fine-tune Paradigm** NAACL 2021 
 
     *Dongkuan Xu, Ian E.H. Yen, Jinxi Zhao, Zhibin Xiao* [[pdf](https://arxiv.org/abs/2104.08682)] 
 
 
-10. **Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization** ACL 2021 
+11. **Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization** ACL 2021 
 
     *Chen Liang, Simiao Zuo, Minshuo Chen, Haoming Jiang, Xiaodong Liu, Pengcheng He, Tuo Zhao, Weizhu Chen* [[pdf](https://arxiv.org/abs/2105.12002)]  [[project](https://github.com/cliang1453/super-structured-lottery-tickets)]  
 
-11. **Block Pruning For Faster Transformers** EMNLP 2021
+12. **Block Pruning For Faster Transformers** EMNLP 2021
 
     *François Lagunas, Ella Charlaix, Victor Sanh, Alexander M. Rush* [[pdf](https://arxiv.org/abs/2109.04838)]  [[project](https://github.com/huggingface/nn_pruning)]  
 
