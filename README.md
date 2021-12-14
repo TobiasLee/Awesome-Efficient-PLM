@@ -66,6 +66,18 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 20. **How to Select One Among All? An Extensive Empirical Study Towards the Robustness of Knowledge Distillation in Natural Language Understanding**  Findings of EMNLP 2021
 
     *Tianda Li, Ahmad Rashid, Aref Jafari, Pranav Sharma, Ali Ghodsi, Mehdi Rezagholizadeh* [[pdf]](https://arxiv.org/abs/2109.05696)
+    
+21. **Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers** EMNLP 2020
+
+    *Yimeng Wu, Peyman Passban, Mehdi Rezagholizadeh, Qun Liu* [[pdf](https://aclanthology.org/2020.emnlp-main.74.pdf)] [[project](https://github.com/yimeng0701/CKD_pytorch)]
+    
+22. **ALP-KD: Attention-Based Layer Projection for Knowledge Distillation** AAAI 2021
+
+    *Peyman Passban, Yimeng Wu, Mehdi Rezagholizadeh, Qun Liu* [[pdf](https://arxiv.org/pdf/2012.14022)]
+
+23. **Universal-KD: Attention-based Output-Grounded Intermediate Layer Knowledge Distillation** EMNLP 2021
+
+    *Yimeng Wu, Mehdi Rezagholizadeh, Abbas Ghaddar, Md Akmal Haidar, Ali Ghodsi* [[pdf](https://aclanthology.org/2021.emnlp-main.603.pdf)]
 
 ## Dynamic Early Exiting
 
@@ -105,8 +117,10 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
     *Wei Zhu* [[pdf](https://aclanthology.org/2021.acl-long.231.pdf)]
 12. **Consistent Accelerated Inference via Confident Adaptive Transformers** EMNLP 2021
     *Tal Schuster, Adam Fisch, Tommi Jaakkola, Regina Barzilay* [[pdf]](https://arxiv.org/abs/2104.08803) [[project]](https://github.com/TalSchuster/CATs)
+    
 13. **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline** Preprint
     *Xiangyang Liu, Tianxiang Sun, Junliang He, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2110.07038) [[project]](http://eluebenchmark.fastnlp.top/#/landing)
+    
 
 ## Quantization
 
