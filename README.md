@@ -66,15 +66,12 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 20. **How to Select One Among All? An Extensive Empirical Study Towards the Robustness of Knowledge Distillation in Natural Language Understanding**  Findings of EMNLP 2021
 
     *Tianda Li, Ahmad Rashid, Aref Jafari, Pranav Sharma, Ali Ghodsi, Mehdi Rezagholizadeh* [[pdf]](https://arxiv.org/abs/2109.05696)
-    
 21. **Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers** EMNLP 2020
 
     *Yimeng Wu, Peyman Passban, Mehdi Rezagholizadeh, Qun Liu* [[pdf](https://aclanthology.org/2020.emnlp-main.74.pdf)] [[project](https://github.com/yimeng0701/CKD_pytorch)]
-    
 22. **ALP-KD: Attention-Based Layer Projection for Knowledge Distillation** AAAI 2021
 
     *Peyman Passban, Yimeng Wu, Mehdi Rezagholizadeh, Qun Liu* [[pdf](https://arxiv.org/pdf/2012.14022)]
-
 23. **Universal-KD: Attention-based Output-Grounded Intermediate Layer Knowledge Distillation** EMNLP 2021
 
     *Yimeng Wu, Mehdi Rezagholizadeh, Abbas Ghaddar, Md Akmal Haidar, Ali Ghodsi* [[pdf](https://aclanthology.org/2021.emnlp-main.603.pdf)]
@@ -117,10 +114,11 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
     *Wei Zhu* [[pdf](https://aclanthology.org/2021.acl-long.231.pdf)]
 12. **Consistent Accelerated Inference via Confident Adaptive Transformers** EMNLP 2021
     *Tal Schuster, Adam Fisch, Tommi Jaakkola, Regina Barzilay* [[pdf]](https://arxiv.org/abs/2104.08803) [[project]](https://github.com/TalSchuster/CATs)
-    
 13. **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline** Preprint
     *Xiangyang Liu, Tianxiang Sun, Junliang He, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2110.07038) [[project]](http://eluebenchmark.fastnlp.top/#/landing)
-    
+14. **A Simple Hash-Based Early Exiting Approach For Language Understanding and Generation** Findings of ACL 2022
+
+    *Tianxiang Sun, Xiangyang Liu, Wei Zhu, Zhichao Geng, Lingling Wu, Yilong He, Yuan Ni, Guotong Xie, Xuanjing Huang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2203.01670)
 
 ## Quantization
 
@@ -145,6 +143,9 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 7. **Training with Quatization Noise for Extreme Model CompressionN**  ICLR 2021
 
    *Angela Fan, Pierre Stock, Benjamin Graham, Edouard Grave, Remi Gribonval Herve Jegou, Armand Joulin* [[pdf](https://arxiv.org/abs/2004.07320)] [[project](https://github.com/pytorch/fairseq/tree/main/examples/quant_noise)]
+8. **Compression of Generative Pre-trained Language Models via Quantization** ACL 2022
+
+   Chaofan Tao, Lu Hou, Wei Zhang, Lifeng Shang, Xin Jiang, Qun Liu, Ping Luo, Ngai Wong [pdf]()
 
 ## Pruning
 
@@ -188,24 +189,21 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 
     *François Lagunas, Ella Charlaix, Victor Sanh, Alexander M. Rush* [[pdf](https://arxiv.org/abs/2109.04838)]  [[project](https://github.com/huggingface/nn_pruning)]
 
-
 ## Other Methods
 
 1. **Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection** arxiv 2019
-   
-   *Guangxiang Zhao, Junyang Lin, Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun* [[pdf](https://arxiv.org/abs/1912.11637)] [[project](https://github.com/lancopku/Explicit-Sparse-Transformer)]
 
+   *Guangxiang Zhao, Junyang Lin, Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun* [[pdf](https://arxiv.org/abs/1912.11637)] [[project](https://github.com/lancopku/Explicit-Sparse-Transformer)]
 2. **Compressing Pre-trained Language Models by Matrix Decomposition** AACL 2020
 
-    *Matan Ben Noach, Yoav Goldberg* [[pdf](https://aclanthology.org/2020.aacl-main.88/)]
-
+   *Matan Ben Noach, Yoav Goldberg* [[pdf](https://aclanthology.org/2020.aacl-main.88/)]
 3. **LadaBERT: Lightweight Adaptation of BERT through Hybrid Model Compression** COLING 2020
 
-    *Yihuan Mao, Yujing Wang, Chufan Wu, Chen Zhang, Yang Wang, Yaming Yang, Quanlu Zhang, Yunhai Tong, Jing Bai* [[pdf](https://arxiv.org/abs/2004.04124)] 
-    
+   *Yihuan Mao, Yujing Wang, Chufan Wu, Chen Zhang, Yang Wang, Yaming Yang, Quanlu Zhang, Yunhai Tong, Jing Bai* [[pdf](https://arxiv.org/abs/2004.04124)]
 4. **Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators** ACL 2021
 
-    *Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Zhi-Yuan Xie, Zhong-Yi Lu and Ji-Rong Wen* [[pdf](https://arxiv.org/abs/2106.02205)] [[project](https://github.com/RUCAIBox/MPOP)]
+   *Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Zhi-Yuan Xie, Zhong-Yi Lu and Ji-Rong Wen* [[pdf](https://arxiv.org/abs/2106.02205)] [[project](https://github.com/RUCAIBox/MPOP)]
+
 ## Contribution
 
 If you find any related work not included in the list, do not hesitate to raise a PR to help us complete the list.
