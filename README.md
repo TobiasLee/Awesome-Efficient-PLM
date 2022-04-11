@@ -113,8 +113,10 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 
     *Wei Zhu* [[pdf](https://aclanthology.org/2021.acl-long.231.pdf)]
 12. **Consistent Accelerated Inference via Confident Adaptive Transformers** EMNLP 2021
+
     *Tal Schuster, Adam Fisch, Tommi Jaakkola, Regina Barzilay* [[pdf]](https://arxiv.org/abs/2104.08803) [[project]](https://github.com/TalSchuster/CATs)
-13. **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline** Preprint
+13. **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline** NAACL 2022 
+
     *Xiangyang Liu, Tianxiang Sun, Junliang He, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2110.07038) [[project]](http://eluebenchmark.fastnlp.top/#/landing)
 14. **A Simple Hash-Based Early Exiting Approach For Language Understanding and Generation** Findings of ACL 2022
 
