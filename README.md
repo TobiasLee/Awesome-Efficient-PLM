@@ -145,10 +145,15 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 7. **Training with Quatization Noise for Extreme Model CompressionN**  ICLR 2021
 
    *Angela Fan, Pierre Stock, Benjamin Graham, Edouard Grave, Remi Gribonval Herve Jegou, Armand Joulin* [[pdf](https://arxiv.org/abs/2004.07320)] [[project](https://github.com/pytorch/fairseq/tree/main/examples/quant_noise)]
+   
 8. **Compression of Generative Pre-trained Language Models via Quantization** ACL 2022
 
-   Chaofan Tao, Lu Hou, Wei Zhang, Lifeng Shang, Xin Jiang, Qun Liu, Ping Luo, Ngai Wong [pdf]()
+   *Chaofan Tao, Lu Hou, Wei Zhang, Lifeng Shang, Xin Jiang, Qun Liu, Ping Luo, Ngai Wong* [[pdf](https://arxiv.org/pdf/2203.10705.pdf)] 
 
+9. **BiBERT: Accurate Fully Binarized BERT** ICLR 2022 
+  
+   *Haotong Qin, Yifu Ding, Mingyuan Zhang, Qinghua YAN, Aishan Liu, Qingqing Dang, Ziwei Liu, Xianglong Liu* [[pdf](https://openreview.net/pdf?id=5xEgrl_5FAJ)] 
+  
 ## Pruning
 
 1. **Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned** ACL 2019
