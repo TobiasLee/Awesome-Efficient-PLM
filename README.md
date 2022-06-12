@@ -121,6 +121,10 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 14. **A Simple Hash-Based Early Exiting Approach For Language Understanding and Generation** Findings of ACL 2022
 
     *Tianxiang Sun, Xiangyang Liu, Wei Zhu, Zhichao Geng, Lingling Wu, Yilong He, Yuan Ni, Guotong Xie, Xuanjing Huang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2203.01670)
+    
+15. **SkipBERT: Efficient Inference with Shallow Layer Skipping** ACL 2022
+16. 
+    *Jue Wang, Ke Chen, Gang Chen, Lidan Shou, Julian McAuley* [[pdf]](https://aclanthology.org/2022.acl-long.503.pdf) [[project]](https://github.com/LorrinWWW/SkipBERT)
 
 ## Quantization
 
