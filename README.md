@@ -215,7 +215,7 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 
    *Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Zhi-Yuan Xie, Zhong-Yi Lu and Ji-Rong Wen* [[pdf](https://arxiv.org/abs/2106.02205)] [[project](https://github.com/RUCAIBox/MPOP)]
    
-5. **Exploring extreme parameter compression for pre-trained language models** ICLR 2022
+5. **Exploring Extreme Parameter Compression for Pre-trained Language Models** ICLR 2022
 
    *Benyou Wang, Yuxin Ren, Lifeng Shang, Xin Jiang, Qun Liu* [[pdf](https://openreview.net/pdf?id=RftryyYyjiG)] [[project](https://github.com/twinkle0331/Xcompression)]
 
