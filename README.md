@@ -196,7 +196,7 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 13. **Block Pruning For Faster Transformers** EMNLP 2021
 
     *François Lagunas, Ella Charlaix, Victor Sanh, Alexander M. Rush* [[pdf](https://arxiv.org/abs/2109.04838)]  [[project](https://github.com/huggingface/nn_pruning)]
-14. A Win-win Deal: Towards Sparse and Robust Pre-trained Language Models  NeurIPS 2022
+14. **A Win-win Deal: Towards Sparse and Robust Pre-trained Language Models**  NeurIPS 2022
 
     Yuanxin Liu, Fandong Meng, Zheng Lin, Jiangnan Li, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou   [[pdf](https://arxiv.org/pdf/2210.05211.pdf)]
 
@@ -217,7 +217,7 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 5. **Exploring Extreme Parameter Compression for Pre-trained Language Models** ICLR 2022
 
    *Benyou Wang, Yuxin Ren, Lifeng Shang, Xin Jiang, Qun Liu* [[pdf](https://openreview.net/pdf?id=RftryyYyjiG)] [[project](https://github.com/twinkle0331/Xcompression)]
-6. From Mimicking to Integrating: Knowledge Integration for Pre-Trained Language Models Findings of EMNLP 2022
+6. **From Mimicking to Integrating: Knowledge Integration for Pre-Trained Language Models** Findings of EMNLP 2022
 
    Lei Li, Yankai Lin, Xuancheng Ren, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun [[pdf](https://arxiv.org/pdf/2210.05230.pdf)] [[project](https://github.com/lancopku/MUKI)]
 
