@@ -115,13 +115,12 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 12. **Consistent Accelerated Inference via Confident Adaptive Transformers** EMNLP 2021
 
     *Tal Schuster, Adam Fisch, Tommi Jaakkola, Regina Barzilay* [[pdf]](https://arxiv.org/abs/2104.08803) [[project]](https://github.com/TalSchuster/CATs)
-13. **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline** NAACL 2022 
+13. **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline** NAACL 2022
 
     *Xiangyang Liu, Tianxiang Sun, Junliang He, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2110.07038) [[project]](http://eluebenchmark.fastnlp.top/#/landing)
 14. **A Simple Hash-Based Early Exiting Approach For Language Understanding and Generation** Findings of ACL 2022
 
     *Tianxiang Sun, Xiangyang Liu, Wei Zhu, Zhichao Geng, Lingling Wu, Yilong He, Yuan Ni, Guotong Xie, Xuanjing Huang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2203.01670)
-    
 15. **SkipBERT: Efficient Inference with Shallow Layer Skipping** ACL 2022
 
     *Jue Wang, Ke Chen, Gang Chen, Lidan Shou, Julian McAuley* [[pdf]](https://aclanthology.org/2022.acl-long.503.pdf) [[project]](https://github.com/LorrinWWW/SkipBERT)
@@ -149,15 +148,13 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 7. **Training with Quatization Noise for Extreme Model CompressionN**  ICLR 2021
 
    *Angela Fan, Pierre Stock, Benjamin Graham, Edouard Grave, Remi Gribonval Herve Jegou, Armand Joulin* [[pdf](https://arxiv.org/abs/2004.07320)] [[project](https://github.com/pytorch/fairseq/tree/main/examples/quant_noise)]
-   
 8. **Compression of Generative Pre-trained Language Models via Quantization** ACL 2022
 
-   *Chaofan Tao, Lu Hou, Wei Zhang, Lifeng Shang, Xin Jiang, Qun Liu, Ping Luo, Ngai Wong* [[pdf](https://arxiv.org/pdf/2203.10705.pdf)] 
+   *Chaofan Tao, Lu Hou, Wei Zhang, Lifeng Shang, Xin Jiang, Qun Liu, Ping Luo, Ngai Wong* [[pdf](https://arxiv.org/pdf/2203.10705.pdf)]
+9. **BiBERT: Accurate Fully Binarized BERT** ICLR 2022
 
-9. **BiBERT: Accurate Fully Binarized BERT** ICLR 2022 
-  
-   *Haotong Qin, Yifu Ding, Mingyuan Zhang, Qinghua YAN, Aishan Liu, Qingqing Dang, Ziwei Liu, Xianglong Liu* [[pdf](https://openreview.net/pdf?id=5xEgrl_5FAJ)] 
-  
+   *Haotong Qin, Yifu Ding, Mingyuan Zhang, Qinghua YAN, Aishan Liu, Qingqing Dang, Ziwei Liu, Xianglong Liu* [[pdf](https://openreview.net/pdf?id=5xEgrl_5FAJ)]
+
 ## Pruning
 
 1. **Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned** ACL 2019
@@ -199,6 +196,9 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 13. **Block Pruning For Faster Transformers** EMNLP 2021
 
     *François Lagunas, Ella Charlaix, Victor Sanh, Alexander M. Rush* [[pdf](https://arxiv.org/abs/2109.04838)]  [[project](https://github.com/huggingface/nn_pruning)]
+14. A Win-win Deal: Towards Sparse and Robust Pre-trained Language Models  NeurIPS 2022
+
+    Yuanxin Liu, Fandong Meng, Zheng Lin, Jiangnan Li, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou   [[pdf](https://arxiv.org/pdf/2210.05211.pdf)]
 
 ## Other Methods
 
@@ -214,10 +214,12 @@ The paper list is mainly mantained by [Lei Li](https://github.com/TobiasLee).
 4. **Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators** ACL 2021
 
    *Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Zhi-Yuan Xie, Zhong-Yi Lu and Ji-Rong Wen* [[pdf](https://arxiv.org/abs/2106.02205)] [[project](https://github.com/RUCAIBox/MPOP)]
-   
 5. **Exploring Extreme Parameter Compression for Pre-trained Language Models** ICLR 2022
 
    *Benyou Wang, Yuxin Ren, Lifeng Shang, Xin Jiang, Qun Liu* [[pdf](https://openreview.net/pdf?id=RftryyYyjiG)] [[project](https://github.com/twinkle0331/Xcompression)]
+6. From Mimicking to Integrating: Knowledge Integration for Pre-Trained Language Models Findings of EMNLP 2022
+
+   Lei Li, Yankai Lin, Xuancheng Ren, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun [[pdf](https://arxiv.org/pdf/2210.05230.pdf)] [[project](https://github.com/lancopku/MUKI)]
 
 ## Contribution
 
